@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Alex Lu</title>
-    <link>http://www.moseslab.csb.utoronto.ca/alexlu/project/</link>
-      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.alexluresearch.com/project/</link>
+      <atom:link href="http://www.alexluresearch.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 17:18:58 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/project/</link>
+      <link>http://www.alexluresearch.com/project/</link>
     </image>
     
     <item>
       <title>Out-of-Sample Generalization</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/project/out-of-sample/</link>
+      <link>http://www.alexluresearch.com/project/out-of-sample/</link>
       <pubDate>Tue, 03 Mar 2020 17:18:58 -0500</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/project/out-of-sample/</guid>
+      <guid>http://www.alexluresearch.com/project/out-of-sample/</guid>
       <description>&lt;img src=&#34;coos_preprint.png&#34;&gt;
 &lt;p&gt;To automate the analysis of images, machine learning experts will often build classifiers, statistical models that assign useful labels to input images (such as if a cell is healthy or diseased.) For these classifiers to be useful, they must generalize, or be able to accurately label new data that has never been used to develop the model. However, a growing concern in machine learning is that we may be overestimating how generalizable classifiers are with standard techniques. Typically, an expert will evaluate their method by holding out some data, and then evaluating performance on that data to simulate the condition where the classifier is given fresh, unseen data. However, these types of methods don&amp;rsquo;t capture the cases where there may be changes in the way the data is produced and generated - for example, different hospitals have different instruments, so classifiers shown to work on one hospital&amp;rsquo;s data will not always work as well for another&amp;rsquo;s.&lt;/p&gt;
 &lt;p&gt;To help machine learning experts develop methods that are robust to new data from different sources, we released a dataset where evaluation data increasingly differs from the data the experts are provided with to develop their models. For example, our hardest dataset comprises of data collected from a different laboratory in Ottawa, under a different microscope. We found that all of the current methods used to classify cells are not robust when the new data is different enough from the original data; we hope that by providing this dataset, machine learning experts will eventually be able to build methods that are robust to these effects.&lt;/p&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Representation Learning</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/project/representation-learning/</link>
+      <link>http://www.alexluresearch.com/project/representation-learning/</link>
       <pubDate>Tue, 03 Mar 2020 17:18:52 -0500</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/project/representation-learning/</guid>
+      <guid>http://www.alexluresearch.com/project/representation-learning/</guid>
       <description>&lt;img src=&#34;model.png&#34;&gt;
 &lt;p&gt;Machine learning promises automation. In an era where we can generate millions of images in a day, we&amp;rsquo;d really like a computer to be able to look at these images for us and identify which ones are most interesting. But in practice, to implement machine learning, users either have to label potentially millions of images to train a neural network, so it&amp;rsquo;s not much less effort than just looking at screens manually.&lt;/p&gt;
 &lt;p&gt;To address this issue, we use self-supervised learning. Self-supervised learning methods train deep learning models to solve autonomous proxy tasks. The proxy tasks do not need to produce useful outputs, and are only meant to teach the models transferable skills and perceptions of data: self-supervised proxy tasks often resemble puzzles, like solving jigsaw puzzles or determining how an image has been rotated.&lt;/p&gt;
@@ -39,9 +39,9 @@
     
     <item>
       <title>Exploratory Biology</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/project/exploratory-biology/</link>
+      <link>http://www.alexluresearch.com/project/exploratory-biology/</link>
       <pubDate>Tue, 03 Mar 2020 17:17:22 -0500</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/project/exploratory-biology/</guid>
+      <guid>http://www.alexluresearch.com/project/exploratory-biology/</guid>
       <description>&lt;p&gt;In applying machine learning to biology, a lot of work has been done in figuring out to automate routine processes that don&amp;rsquo;t scale well, such as building classifiers to assign labels to images. While still useful, these methods can typically only find more examples of biology that we already know a lot about. However, biologists are also interested in discovery: what phenotypes did we miss because they are too rare, or only occur in certain conditions? How do phenotypes correlate with disease or molecular functions? Is a biological phenotype really a group of multiple subclasses informed by different underlying mechanisms?&lt;/p&gt;
 &lt;p&gt;Relatively little work has been dedicated to leveraging machine learning for exploratory biology. I research ways to create unbiased representations of biology through self-supervised learning: because these models &amp;ldquo;teach themselves&amp;rdquo; instead of relying on prior knowledge from experts, they may learn to look at different aspects of cells or proteins that experts are biased by. By looking at patterns or commonalities in these representations, we can discover interesting new hypotheses.&lt;/p&gt;
 &lt;p&gt;In a proof-of-concept, we analyzed the entire yeast proteome in 24 different screens - integrating over 600,000 different images in this study. We found a lot of cool patterns in the ways different proteins responded, that were unexpected - for example, in addition to finding specific and general responses to stress, we also found proteins that would behave in really different ways in different stresses, or unexpected changes in proteins that were thought to do one thing, but had a change that implied that they were functional in different ways. These analysis help us come up with new biological hypotheses, highlighting biology that biologists wouldn&amp;rsquo;t have previously noticed without these types of big, systematic analyses.&lt;/p&gt;

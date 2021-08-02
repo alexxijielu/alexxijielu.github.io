@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Lu</title>
-    <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/alex-lu/</link>
-      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/authors/alex-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.alexluresearch.com/authors/alex-lu/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/alex-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alex Lu</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/alex-lu/</link>
+      <link>http://www.alexluresearch.com/authors/alex-lu/</link>
     </image>
     
     <item>
       <title>Mast cells exert pro-inflammatory effects of relevance to the pathophyisology of tendinopathy</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mast_cells/</link>
+      <link>http://www.alexluresearch.com/publication/mast_cells/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mast_cells/</guid>
+      <guid>http://www.alexluresearch.com/publication/mast_cells/</guid>
       <description></description>
     </item>
     

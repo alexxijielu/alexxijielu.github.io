@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Karren Yang | Alex Lu</title>
-    <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/karren-yang/</link>
-      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/authors/karren-yang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.alexluresearch.com/authors/karren-yang/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/karren-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Karren Yang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Karren Yang</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/karren-yang/</link>
+      <link>http://www.alexluresearch.com/authors/karren-yang/</link>
     </image>
     
     <item>
       <title>Improved Conditional Flow Models for Molecule to Image Synthesis</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/conditional_flow/</link>
+      <link>http://www.alexluresearch.com/publication/conditional_flow/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/conditional_flow/</guid>
+      <guid>http://www.alexluresearch.com/publication/conditional_flow/</guid>
       <description></description>
     </item>
     

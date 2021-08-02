@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ian S Hsu | Alex Lu</title>
-    <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/ian-s-hsu/</link>
-      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/authors/ian-s-hsu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.alexluresearch.com/authors/ian-s-hsu/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/ian-s-hsu/index.xml" rel="self" type="application/rss+xml" />
     <description>Ian S Hsu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ian S Hsu</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/ian-s-hsu/</link>
+      <link>http://www.alexluresearch.com/authors/ian-s-hsu/</link>
     </image>
     
     <item>
       <title>The Cells Out of Sample (COOS) dataset and benchmarks for measuring out-of-sample generalization of image classifiers</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/coos/</link>
+      <link>http://www.alexluresearch.com/publication/coos/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/coos/</guid>
+      <guid>http://www.alexluresearch.com/publication/coos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/yeastspotter/</link>
+      <link>http://www.alexluresearch.com/publication/yeastspotter/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/yeastspotter/</guid>
+      <guid>http://www.alexluresearch.com/publication/yeastspotter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating images from multiple microscopy screens reveals diverse patterns of change in the subcellular localization of proteins</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/integrating-yeast-images/</link>
+      <link>http://www.alexluresearch.com/publication/integrating-yeast-images/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/integrating-yeast-images/</guid>
+      <guid>http://www.alexluresearch.com/publication/integrating-yeast-images/</guid>
       <description></description>
     </item>
     

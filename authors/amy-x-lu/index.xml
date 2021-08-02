@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amy X Lu | Alex Lu</title>
-    <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/amy-x-lu/</link>
-      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/authors/amy-x-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.alexluresearch.com/authors/amy-x-lu/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/amy-x-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Amy X Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Amy X Lu</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/amy-x-lu/</link>
+      <link>http://www.alexluresearch.com/authors/amy-x-lu/</link>
     </image>
     
     <item>
       <title>Discovering molecular features of intrinsically disordered regions by using evolution for contrastive learning</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/reverse-homology/</link>
+      <link>http://www.alexluresearch.com/publication/reverse-homology/</link>
       <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/reverse-homology/</guid>
+      <guid>http://www.alexluresearch.com/publication/reverse-homology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution Is All You Need: Phylogenetic Augmentation for Contrastive Learning</title>
-      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/evolution_is_all_you_need/</link>
+      <link>http://www.alexluresearch.com/publication/evolution_is_all_you_need/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/evolution_is_all_you_need/</guid>
+      <guid>http://www.alexluresearch.com/publication/evolution_is_all_you_need/</guid>
       <description></description>
     </item>
     
