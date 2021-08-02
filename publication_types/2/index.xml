@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Alex Lu</title>
+    <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication_types/2/</link>
+      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>2</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Discovering molecular features of intrinsically disordered regions by using evolution for contrastive learning</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/reverse-homology/</link>
+      <pubDate>Fri, 30 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/reverse-homology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/yeastspotter/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/yeastspotter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning unsupervised feature representations for single cell microscopy images with paired cell inpainting</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/paired-cell-inpainting/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/paired-cell-inpainting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating images from multiple microscopy screens reveals diverse patterns of change in the subcellular localization of proteins</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/integrating-yeast-images/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/integrating-yeast-images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Influence of repetitive mechanical loading on MMP2 activity in tendon fibroblasts</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mmp2/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mmp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Unsupervised kNN Method to Systematically Detect Changes in Protein Localization in High-Throughput Microscopy Images</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/knn/</link>
+      <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/knn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mast cells exert pro-inflammatory effects of relevance to the pathophyisology of tendinopathy</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/angiopoietin/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/angiopoietin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accumulation of oxidized LDL in the tendon tissues of C57BL/6 or apolipoprotein E knock-out mice that consume a high fat diet: potential impact on tendon health</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/oxidized-ldl/</link>
+      <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/oxidized-ldl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced collagen type I synthesis by human tenocytes subjected to periodic in vitro mechanical stimulation</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/enhanced_collagen/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/enhanced_collagen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mast cells exert pro-inflammatory effects of relevance to the pathophyisology of tendinopathy</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/podocalyxin/</link>
+      <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/podocalyxin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mast cells exert pro-inflammatory effects of relevance to the pathophyisology of tendinopathy</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mast_cells/</link>
+      <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mast_cells/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

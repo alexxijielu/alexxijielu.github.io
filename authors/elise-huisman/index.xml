@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elise Huisman | Alex Lu</title>
+    <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/elise-huisman/</link>
+      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/authors/elise-huisman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elise Huisman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Elise Huisman</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/elise-huisman/</link>
+    </image>
+    
+    <item>
+      <title>Influence of repetitive mechanical loading on MMP2 activity in tendon fibroblasts</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mmp2/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/mmp2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhanced collagen type I synthesis by human tenocytes subjected to periodic in vitro mechanical stimulation</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/enhanced_collagen/</link>
+      <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/enhanced_collagen/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

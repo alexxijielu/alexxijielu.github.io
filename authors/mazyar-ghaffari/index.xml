@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mazyar Ghaffari | Alex Lu</title>
+    <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/mazyar-ghaffari/</link>
+      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/authors/mazyar-ghaffari/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mazyar Ghaffari</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Mazyar Ghaffari</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/mazyar-ghaffari/</link>
+    </image>
+    
+    <item>
+      <title>Mast cells exert pro-inflammatory effects of relevance to the pathophyisology of tendinopathy</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/angiopoietin/</link>
+      <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/angiopoietin/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

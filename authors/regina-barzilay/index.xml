@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regina Barzilay | Alex Lu</title>
+    <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/regina-barzilay/</link>
+      <atom:link href="http://www.moseslab.csb.utoronto.ca/alexlu/authors/regina-barzilay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Regina Barzilay</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Regina Barzilay</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/authors/regina-barzilay/</link>
+    </image>
+    
+    <item>
+      <title>Improved Conditional Flow Models for Molecule to Image Synthesis</title>
+      <link>http://www.moseslab.csb.utoronto.ca/alexlu/publication/conditional_flow/</link>
+      <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.moseslab.csb.utoronto.ca/alexlu/publication/conditional_flow/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
