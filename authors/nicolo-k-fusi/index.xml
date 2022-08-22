@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolo K Fusi | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/nicolo-k-fusi/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/nicolo-k-fusi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolo K Fusi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Nicolo K Fusi</title>
+      <link>http://www.alexluresearch.com/authors/nicolo-k-fusi/</link>
+    </image>
+    
+    <item>
+      <title>Convolutions are competitive with transformers for protein sequence pretraining</title>
+      <link>http://www.alexluresearch.com/publication/carp/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/carp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

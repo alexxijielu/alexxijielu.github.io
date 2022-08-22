@@ -5,12 +5,20 @@
     <link>http://www.alexluresearch.com/publication_types/1/</link>
       <atom:link href="http://www.alexluresearch.com/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>1</title>
       <link>http://www.alexluresearch.com/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Convolutions are competitive with transformers for protein sequence pretraining</title>
+      <link>http://www.alexluresearch.com/publication/carp/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/carp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improved Conditional Flow Models for Molecule to Image Synthesis</title>
