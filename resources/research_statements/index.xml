@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Overview | Alex Lu</title>
+    <title>Writing a Research Statement | Alex Lu</title>
     <link>http://www.alexluresearch.com/resources/research_statements/</link>
       <atom:link href="http://www.alexluresearch.com/resources/research_statements/index.xml" rel="self" type="application/rss+xml" />
-    <description>Overview</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Writing a Research Statement</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Overview</title>
+      <title>Writing a Research Statement</title>
       <link>http://www.alexluresearch.com/resources/research_statements/</link>
     </image>
     
