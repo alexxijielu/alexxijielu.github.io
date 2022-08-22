@@ -3,18 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.alexluresearch.com/resources/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.alexluresearch.com/resources/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.alexluresearch.com/resources/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>http://www.alexluresearch.com/resources/research_statements/</loc>
   </url>
   
   <url>
@@ -185,11 +174,6 @@
   <url>
     <loc>http://www.alexluresearch.com/authors/sam-cooper/</loc>
     <lastmod>2019-09-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.alexluresearch.com/resources/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
@@ -411,6 +395,10 @@
   
   <url>
     <loc>http://www.alexluresearch.com/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.alexluresearch.com/resources/</loc>
   </url>
   
   <url>
