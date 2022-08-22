@@ -5,12 +5,38 @@
     <link>http://www.alexluresearch.com/project/</link>
       <atom:link href="http://www.alexluresearch.com/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Mar 2020 17:18:58 -0500</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 08 Aug 2022 17:18:52 -0500</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Projects</title>
       <link>http://www.alexluresearch.com/project/</link>
     </image>
+    
+    <item>
+      <title>Self-Supervised Learning</title>
+      <link>http://www.alexluresearch.com/project/self-supervised/</link>
+      <pubDate>Mon, 08 Aug 2022 17:18:52 -0500</pubDate>
+      <guid>http://www.alexluresearch.com/project/self-supervised/</guid>
+      <description>&lt;img src=&#34;model.png&#34;&gt;
+&lt;p&gt;Machine learning promises automation. In an era where we can generate millions of images in a day, we&amp;rsquo;d really like a computer to be able to look at these images for us and identify which ones are most interesting. But in practice, to implement machine learning, users either have to label potentially millions of images to train a neural network, so it&amp;rsquo;s not much less effort than just looking at screens manually.&lt;/p&gt;
+&lt;p&gt;To address this issue, we use self-supervised learning. Self-supervised learning methods are inspired by developmental psychology. Unlike state-of-the-art machine learning methods, which rely on more rote learning strategies, children learn skills through play and exploration. Similarly, training neural networks on autonomous puzzle-solving tasks can help them develop skills and representations that can be transferred to more useful analyses. By carefully designing the task to recognize specific biology in images, we can control what the model learns.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007348&#34;&gt;For microscopy images, we designed a task called &amp;ldquo;paired cell inpainting&amp;quot;&lt;/a&gt;. We ask the model to solve a &amp;ldquo;coloring book&amp;rdquo; challenge: the task asks it to recognize protein localization in one cell, so it can color in the right organelle in a second different cell. Since this task implicitly requires an understanding of protein localization in the first cell, this representation can be transferred to downstream analyses. Our representations perform better than those laboriously designed by experts in classifying protein subcellular localization, suggesting that they capture more biology. In addition, our method is general: we were able to analyze datasets that were never analyzed computationally previously due to technical challenges.&lt;/p&gt;
+&lt;p&gt;We also applied these methods to the intrinsically disordered &amp;ldquo;dark proteome&amp;rdquo;. These are regions of proteins that don&amp;rsquo;t fold into a stable secondary/tertiary structure. Although they are widespread and critical to protein function, we still don&amp;rsquo;t understand them well because they evolve too rapidly to be analyzed by classic bioinformatics methods. &lt;a href=&#34;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010238&#34;&gt;By creating a self-supervised method, &amp;ldquo;reverse homology&amp;quot;&lt;/a&gt;, that exploits principles of evolutions to learn about conserved elements of these sequences, we can automatically learn hundreds of important features that must be conserved over evolution for these regions of proteins to carry out their function. Interpreting these features lets us produce hypotheses that fuel biological discovery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biological Hypothesis Discovery</title>
+      <link>http://www.alexluresearch.com/project/exploratory-biology/</link>
+      <pubDate>Mon, 08 Aug 2022 17:17:22 -0500</pubDate>
+      <guid>http://www.alexluresearch.com/project/exploratory-biology/</guid>
+      <description>&lt;p&gt;How do we discover new biology using neural networks? Even as we&amp;rsquo;ve trained models that can sensitively detect biological signal, we still need a way to extract and organize these signals into actionable hypotheses. For example, what phenotypes did we miss because they are too rare, or only occur in certain conditions? How do phenotypes correlate with disease or molecular functions? Is a biological phenotype really a group of multiple subclasses informed by different underlying mechanisms? To address these challenges, I focus on two main strategies in my research: visualization and interpretation.&lt;/p&gt;
+&lt;img src=&#34;heatmap.png&#34;&gt;
+&lt;p&gt;&lt;b&gt;Visualization:&lt;/b&gt; Unsupervised cluster analyses can help group together representations learned by neural networks, so we can analyze patterns and global trends. We &lt;a href = &#39;https://elifesciences.org/articles/31872&#39;&gt;analyzed the entire yeast proteome in 24 different screens &lt;/a&gt; - integrating over 600,000 different images. We found a lot of cool patterns in the ways different proteins responded, that were unexpected - for example, in addition to finding specific and general responses to stress, we also found proteins that would behave in really different ways in different stresses, or unexpected changes in proteins that were thought to do one thing, but had a change that implied that they were functional in different ways. These analysis help us come up with new biological hypotheses, highlighting biology that biologists wouldn&amp;rsquo;t have previously noticed without these types of big, systematic analyses.&lt;/p&gt;
+&lt;img src=&#34;umap.png&#34;&gt;
+&lt;p&gt;&lt;b&gt;Interpretation methods:&lt;/b&gt; In our work &lt;a href=&#39;https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010238&#39;&gt;understanding the intrinsically disordered &amp;ldquo;dark proteome&amp;quot;&lt;/a&gt;, we developed a method allowing us to interpret individual neurons of a neural network as sequence logos (showing the subsequences these neurons preferentially identified in protein sequences), as well as a method that allowed us to interpret what specific properties of any given sequence a neural network was relying on to identify evolutionary conservation in that sequence. We showed that we could identify things like new subclasses of motifs impacting the proteome on a global level, as well as specific hypotheses about functional elements in individual sequences.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Robust Models</title>
