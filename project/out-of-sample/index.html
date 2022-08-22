@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="How do we build models that are robust to small differences in future experiments?">
+  <meta name="description" content="How do we build models that ignore non-biological variation?">
 
   
   <link rel="alternate" hreflang="en-us" href="http://www.alexluresearch.com/project/out-of-sample/">
@@ -270,8 +270,8 @@
   
   <meta property="og:site_name" content="Alex Lu">
   <meta property="og:url" content="http://www.alexluresearch.com/project/out-of-sample/">
-  <meta property="og:title" content="Out-of-Sample Generalization | Alex Lu">
-  <meta property="og:description" content="How do we build models that are robust to small differences in future experiments?"><meta property="og:image" content="http://www.alexluresearch.com/project/out-of-sample/featured.png">
+  <meta property="og:title" content="Robust Models | Alex Lu">
+  <meta property="og:description" content="How do we build models that ignore non-biological variation?"><meta property="og:image" content="http://www.alexluresearch.com/project/out-of-sample/featured.png">
   <meta property="twitter:image" content="http://www.alexluresearch.com/project/out-of-sample/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -301,7 +301,7 @@
     "@type": "WebPage",
     "@id": "http://www.alexluresearch.com/project/out-of-sample/"
   },
-  "headline": "Out-of-Sample Generalization",
+  "headline": "Robust Models",
   
   "image": [
     "http://www.alexluresearch.com/project/out-of-sample/featured.png"
@@ -323,7 +323,7 @@
       "url": "http://www.alexluresearch.com/images/icon_hub04dd380f422a9ba22d79ed1b743f902_31243_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "How do we build models that are robust to small differences in future experiments?"
+  "description": "How do we build models that ignore non-biological variation?"
 }
 </script>
 
@@ -341,7 +341,7 @@
 
 
 
-  <title>Out-of-Sample Generalization | Alex Lu</title>
+  <title>Robust Models | Alex Lu</title>
 
 </head>
 
@@ -518,6 +518,28 @@
         
         
         
+
+        <li class="nav-item">
+          <a class="nav-link " href="/resources/"><span>Resources</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
           
           
           
@@ -603,7 +625,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Out-of-Sample Generalization</h1>
+  <h1>Robust Models</h1>
 
   
 
@@ -663,9 +685,9 @@
 
     <div class="article-style">
       <img src="coos_preprint.png">
-<p>To automate the analysis of images, machine learning experts will often build classifiers, statistical models that assign useful labels to input images (such as if a cell is healthy or diseased.) For these classifiers to be useful, they must generalize, or be able to accurately label new data that has never been used to develop the model. However, a growing concern in machine learning is that we may be overestimating how generalizable classifiers are with standard techniques. Typically, an expert will evaluate their method by holding out some data, and then evaluating performance on that data to simulate the condition where the classifier is given fresh, unseen data. However, these types of methods don&rsquo;t capture the cases where there may be changes in the way the data is produced and generated - for example, different hospitals have different instruments, so classifiers shown to work on one hospital&rsquo;s data will not always work as well for another&rsquo;s.</p>
-<p>To help machine learning experts develop methods that are robust to new data from different sources, we released a dataset where evaluation data increasingly differs from the data the experts are provided with to develop their models. For example, our hardest dataset comprises of data collected from a different laboratory in Ottawa, under a different microscope. We found that all of the current methods used to classify cells are not robust when the new data is different enough from the original data; we hope that by providing this dataset, machine learning experts will eventually be able to build methods that are robust to these effects.</p>
-<p>One observation we made about covariate shifts is that they often tend to be local: different classes are differently affected by covariate shifts, and in different ways from dataset to dataset. This suggests that correcting for covariate shifts locally may be a promising direction: we previously showed that a simple algorithm that uses the nearest neighbors of a protein can correct for covariate shifts, because usually, the nearest neighbors are informative about the kind of local covariate shift affecting that protein.</p>
+<p>In addition to learning biological signal, a good machine learning model will be robust to non-biological, technical variation. Unfortunately, getting a model that learns just biological signal while ignoring technical variation can be difficult. Especially when you&rsquo;re working with a purely data-driven model, both sources of variation can contribute to the predictiveness of the model. For example, large-scale image screens that parallelize many experiments at once might image experiments in the same order each time. The microscope gradually heats up as it operates, meaning the final set of experiments will be brighter than the first step of experiments, so the model might learn that image intensity can discriminate these experiments</p>
+<p>While biological signal (hopefully) produces general information, technical variation does not. If you scrambled the order of experiments in new screens, you might see a drop in performance, if the model has indeed learned to rely on technical variation as part of its decision-making. A growing concern in machine learning is that we may be overestimating how generalizable models are with standard techniques. Typically, an expert will evaluate their method by holding out some data, and then evaluating performance on that data to simulate the condition where the classifier is given fresh, unseen data. However, these types of methods don&rsquo;t capture the cases where there may be changes in the way the data is produced and generated - for example, different hospitals have different instruments, so classifiers shown to work on one hospital&rsquo;s data will not always work as well for another&rsquo;s.</p>
+<p>To help machine learning experts develop methods that are robust to new data from different sources, <a href='https://arxiv.org/abs/1906.07282'>we released a dataset where evaluation data increasingly differs from the data the experts are provided with to develop their models</a>. For example, our hardest dataset comprises of data collected from a different laboratory in Ottawa, under a different microscope. We found that all of the current methods used to classify cells are not robust when the new data is different enough from the original data; we hope that by providing this dataset, machine learning experts will eventually be able to build methods that are robust to these effects.</p>
 
     </div>
 

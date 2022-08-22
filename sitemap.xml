@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.alexluresearch.com/resources/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.alexluresearch.com/resources/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.alexluresearch.com/resources/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.alexluresearch.com/publication_types/1/</loc>
     <lastmod>2022-06-29T00:00:00+00:00</lastmod>
   </url>
@@ -123,23 +138,13 @@
   </url>
   
   <url>
-    <loc>http://www.alexluresearch.com/project/out-of-sample/</loc>
-    <lastmod>2020-03-03T17:18:58-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.alexluresearch.com/project/</loc>
     <lastmod>2020-03-03T17:18:58-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.alexluresearch.com/project/representation-learning/</loc>
-    <lastmod>2020-03-03T17:18:52-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.alexluresearch.com/project/exploratory-biology/</loc>
-    <lastmod>2020-03-03T17:17:22-05:00</lastmod>
+    <loc>http://www.alexluresearch.com/project/out-of-sample/</loc>
+    <lastmod>2020-03-03T17:18:58-05:00</lastmod>
   </url>
   
   <url>
@@ -170,6 +175,11 @@
   <url>
     <loc>http://www.alexluresearch.com/authors/sam-cooper/</loc>
     <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.alexluresearch.com/resources/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
