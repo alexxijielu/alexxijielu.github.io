@@ -1,0 +1,69 @@
++++
+title = "Incorporating knowledge of plates in batch normalization improves generalization of deep learning for microscopy images"
+
+# Date first published.
+date = "2022-10-18"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Alexander Lin", "Alex X Lu"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["1"]
+
+# Publication name and optional abbreviated version.
+publication = "Biorxiv"
+publication_short = "Biorxiv"
+
+# Abstract and optional shortened version.
+abstract = "Data collected by high-throughput microscopy experiments are affected by batch effects, stemming from slight technical differences between experimental batches. Batch effects significantly impede machine learning efforts, as models learn spurious technical variation that do not generalize. We introduce batch effects normalization (BEN), a simple method for correcting batch effects that can be applied to any neural network with batch normalization (BN) layers. BEN aligns the concept of a "batch" in biological experiments with that of a "batch" in deep learning. During each training step, data points forming the deep learning batch are always sampled from the same experimental batch. This small tweak turns the batch normalization layers into an estimate of the shared batch effects between images, allowing for these technical effects to be standardized out during training and inference. We demonstrate that BEN results in dramatic performance boosts in both supervised and unsupervised learning, leading to state-of-the-art performance on the RxRx1-Wilds benchmark."
+summary = "Simply rearranging data leads to robust deep learning for microscopy."
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = true
+featured = true
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
+projects = ["representation-learning", "exploratory-biology"]
+
+# Links (optional).
+url_pdf = "https://www.biorxiv.org/content/10.1101/2022.10.14.512286v1.abstract"
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = ""
+
+# Custom links (optional).
+#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
+# url_custom = []
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "headers/bubbles-wide.jpg"
+caption = "My caption ??"
+
++++
