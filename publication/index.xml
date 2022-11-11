@@ -5,12 +5,28 @@
     <link>http://www.alexluresearch.com/publication/</link>
       <atom:link href="http://www.alexluresearch.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
       <link>http://www.alexluresearch.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Incorporating knowledge of plates in batch normalization improves generalization of deep learning for microscopy images</title>
+      <link>http://www.alexluresearch.com/publication/ben/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/ben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein structure generation via folding diffusion</title>
+      <link>http://www.alexluresearch.com/publication/protfolddiff/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/protfolddiff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Convolutions are competitive with transformers for protein sequence pretraining</title>

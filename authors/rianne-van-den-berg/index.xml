@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kevin K Yang | Alex Lu</title>
-    <link>http://www.alexluresearch.com/authors/kevin-k-yang/</link>
-      <atom:link href="http://www.alexluresearch.com/authors/kevin-k-yang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kevin K Yang</description>
+    <title>Rianne van den Berg | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/rianne-van-den-berg/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/rianne-van-den-berg/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rianne van den Berg</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Kevin K Yang</title>
-      <link>http://www.alexluresearch.com/authors/kevin-k-yang/</link>
+      <title>Rianne van den Berg</title>
+      <link>http://www.alexluresearch.com/authors/rianne-van-den-berg/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>http://www.alexluresearch.com/publication/protfolddiff/</link>
       <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/protfolddiff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Convolutions are competitive with transformers for protein sequence pretraining</title>
-      <link>http://www.alexluresearch.com/publication/carp/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/carp/</guid>
       <description></description>
     </item>
     
