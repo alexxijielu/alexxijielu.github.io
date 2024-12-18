@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/stanley-bryan-z-hua/</link>
       <atom:link href="http://www.alexluresearch.com/authors/stanley-bryan-z-hua/index.xml" rel="self" type="application/rss+xml" />
     <description>Stanley Bryan Z Hua</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 22 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Stanley Bryan Z Hua</title>
@@ -15,7 +15,7 @@
     <item>
       <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
       <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
       <description></description>
     </item>

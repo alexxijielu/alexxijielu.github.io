@@ -61,7 +61,7 @@
     </item>
     
     <item>
-      <title>Convolutions are competitive with transformers for protein sequence pretraining</title>
+      <title>Domain adaptation using optimal transport for invariant learning using histopathology datasets</title>
       <link>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</guid>
@@ -73,6 +73,14 @@
       <link>http://www.alexluresearch.com/publication/ben/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/ben/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
+      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
       <description></description>
     </item>
     
@@ -97,14 +105,6 @@
       <link>http://www.alexluresearch.com/publication/coos/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/coos/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
-      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
       <description></description>
     </item>
     

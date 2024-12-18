@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
+      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Evolution Is All You Need: Phylogenetic Augmentation for Contrastive Learning</title>
       <link>http://www.alexluresearch.com/publication/evolution_is_all_you_need/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
@@ -73,14 +81,6 @@
       <link>http://www.alexluresearch.com/publication/knn/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/knn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
-      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
       <description></description>
     </item>
     
