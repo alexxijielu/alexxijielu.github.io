@@ -5,20 +5,12 @@
     <link>http://www.alexluresearch.com/authors/alan-m-moses/</link>
       <atom:link href="http://www.alexluresearch.com/authors/alan-m-moses/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan M Moses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alan M Moses</title>
       <link>http://www.alexluresearch.com/authors/alan-m-moses/</link>
     </image>
-    
-    <item>
-      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
-      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>A functional map of the human intrinsically disordered proteome</title>
@@ -81,6 +73,14 @@
       <link>http://www.alexluresearch.com/publication/knn/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/knn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
+      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
       <description></description>
     </item>
     

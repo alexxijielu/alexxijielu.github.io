@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
-      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Protein structure generation via folding diffusion</title>
       <link>http://www.alexluresearch.com/publication/foldingdiff/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
@@ -177,6 +169,14 @@
       <link>http://www.alexluresearch.com/publication/asl_stem_wiki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/asl_stem_wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
+      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
       <description></description>
     </item>
     
