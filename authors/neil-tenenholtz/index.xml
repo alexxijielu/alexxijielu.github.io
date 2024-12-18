@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neil Tenenholtz | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/neil-tenenholtz/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/neil-tenenholtz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Neil Tenenholtz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Neil Tenenholtz</title>
+      <link>http://www.alexluresearch.com/authors/neil-tenenholtz/</link>
+    </image>
+    
+    <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>http://www.alexluresearch.com/publication/evodiff/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/evodiff/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

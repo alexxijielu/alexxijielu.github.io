@@ -5,12 +5,20 @@
     <link>http://www.alexluresearch.com/authors/bob-strome/</link>
       <atom:link href="http://www.alexluresearch.com/authors/bob-strome/index.xml" rel="self" type="application/rss+xml" />
     <description>Bob Strome</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 12 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Bob Strome</title>
       <link>http://www.alexluresearch.com/authors/bob-strome/</link>
     </image>
+    
+    <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>http://www.alexluresearch.com/publication/evodiff/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/evodiff/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Integrating images from multiple microscopy screens reveals diverse patterns of change in the subcellular localization of proteins</title>

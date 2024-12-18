@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alex X. Lu | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/alex-x.-lu/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/alex-x.-lu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alex X. Lu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Alex X. Lu</title>
+      <link>http://www.alexluresearch.com/authors/alex-x.-lu/</link>
+    </image>
+    
+    <item>
+      <title>Feature reuse and scaling: Understanding transfer learning with protein language models</title>
+      <link>http://www.alexluresearch.com/publication/feature_reuse_proteins/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/feature_reuse_proteins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>http://www.alexluresearch.com/publication/evodiff/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/evodiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
+      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemic Biases in Sign Language AI Research: A Deaf-Led Call to Reevaluate Research Agendas</title>
+      <link>http://www.alexluresearch.com/publication/asl_systematic_biases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_systematic_biases/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

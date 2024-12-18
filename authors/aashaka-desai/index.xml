@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aashaka Desai | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/aashaka-desai/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/aashaka-desai/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aashaka Desai</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Aashaka Desai</title>
+      <link>http://www.alexluresearch.com/authors/aashaka-desai/</link>
+    </image>
+    
+    <item>
+      <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
+      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemic Biases in Sign Language AI Research: A Deaf-Led Call to Reevaluate Research Agendas</title>
+      <link>http://www.alexluresearch.com/publication/asl_systematic_biases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_systematic_biases/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

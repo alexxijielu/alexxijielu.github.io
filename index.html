@@ -277,7 +277,7 @@
   <meta property="og:description" content="Senior Researcher"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
   <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2022-10-18T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2024-03-20T00:00:00&#43;00:00">
   
 
   
@@ -756,12 +756,12 @@
     
     <h1>Hello!</h1>
 
-    <p>Modern biological experiments generate an unprecedented amount of data. How do we discover new biology when we have millions of microscopy images or protein sequences, and it becomes impossible to look at data at a one-by-one basis anymore? <b>My research develops machine learning methods for discovering hypotheses in biology.</b></p>
-<p>I have broad research interests, but central themes include:</p>
+    <p><b>How do we use AI to make biological discoveries?</b> While AI is an increasingly powerful tool for scientific discovery, most of its successes are in fields where ample prior knowledge exists to pose well-defined prediction problems. However, many biological domains are inherently exploratory, and characterized by a lack of complete knowledge. My research focuses on figuring out how we can still use AI to empower biological discovery in these settings.</p>
+<p>Specifically, I focus on several core themes:</p>
 <ul>
-<li><b>Reducing effort and bias in applying machine learning:</b> The best-performing machine learning methods often require a large volume of labeled training data. Not only is this time-consuming, but it biases models to be more sensitive to biology we have prior knowledge of - we might not be able to discover unknown biology, since we can&rsquo;t label it. To address these barriers, I focus on <b>self-supervised machine learning</b> methods.</li>
-<li><b>Learning relevant signal without direct specification:</b> In biology, one scientist&rsquo;s signal is another scientist&rsquo;s noise: different biologists simply have different questions and are interested in learning different things from even the same data. I research how we can train machine learning models to extract relevant biological signal from data (even when we don&rsquo;t know how to directly specify this), and robust to non-biological noise.</li>
-<li><b>Interpretation and visualization:</b> After we&rsquo;ve trained a model, how do we extract insights? I&rsquo;m interested in how we can use interpretation and visualization techniques to identify new biological hypotheses.</li>
+<li><b>Foundation models and self-supervised representation learning:</b> These methods can learn from unlabeled data at scale, potentially unearthing unsupervised insights in yet-to-be-characterized data. I design <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007348">biologically</a>-<a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010238">motivated</a> and <a href="https://www.nature.com/articles/s41467-024-45051-2">principles-first</a> methods.</li>
+<li><b>Generalization and robustness:</b> For foundation models to be useful in discovery, they must learn biological signal. I design evaluations that &lt;a href=&quot;https://www.biorxiv.org/content/10.1101/2024.02.05.578959v2&rdquo;.understand what models learn and scale on</a>, and methods that ensure that models <a href="https://www.biorxiv.org/content/10.1101/2022.10.14.512286v1">learn biology</a>, not <a href="https://arxiv.org/abs/2303.02241">irreproducible technical variation</a>.</li>
+<li><b>Aligning with downstream use-cases:</b> Applying models for discovery in less-characterized disciplines means we need to interact with them differently. These include both technical methods like <a href="https://www.biorxiv.org/content/10.1101/2023.10.16.561085v2">zero-shot evaluation</a> and <a href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010238">interpretability</a>, and <a href="https://arxiv.org/abs/2403.02563">developing an understanding of overlooked applications</a>.</li>
 </ul>
 
 
@@ -1063,12 +1063,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/ben/" >Incorporating knowledge of plates in batch normalization improves generalization of deep learning for microscopy images</a>
+      <a href="/publication/feature_reuse_proteins/" >Feature reuse and scaling: Understanding transfer learning with protein language models</a>
     </h3>
 
     
     <div class="article-style">
-      Simply rearranging data leads to robust deep learning for microscopy.
+      A systematic benchmark of protein language models reveal that they do not scale for any tasks except structure.
     </div>
     
 
@@ -1083,7 +1083,7 @@
 
 
   
-  <span>Alexander Lin</span>, <span>Alex X Lu</span>
+  <span>Francesca Zhoufan-Li</span>, <span>Ava P. Amini</span>, <span>Yisong Yue</span>, <span>Kevin Yang</span>, <span>Alex X. Lu</span>
 
       </div>
       
@@ -1106,7 +1106,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2022.10.14.512286v1.abstract" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2024.02.05.578959v2" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1121,9 +1121,11 @@
   
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/out-of-sample/">
-    Project
-  </a>
+    
+  
+
+  
+    
   
 
 
@@ -1172,12 +1174,12 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/protfolddiff/" >Protein structure generation via folding diffusion</a>
+      <a href="/publication/sc_foundation_zero_shot/" >Assessing the limits of zero-shot foundation models in single-cell biology</a>
     </h3>
 
     
     <div class="article-style">
-      Generating novel proteins by using diffusion on angles.
+      Proposed single-cell foundation models fail to outperform basic baselines zero-shot.
     </div>
     
 
@@ -1192,7 +1194,7 @@
 
 
   
-  <span>Kevin E Wu</span>, <span>Kevin K Yang</span>, <span>Rianne van den Berg</span>, <span>James Y Zou</span>, <span>Alex X Lu</span>, <span>Ava P Amini</span>
+  <span>Kasia Z Kedzierska</span>, <span>Lorin Crawford</span>, <span>Ava P Amini</span>, <span>Alex X Lu</span>
 
       </div>
       
@@ -1215,7 +1217,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2209.15611" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2023.10.16.561085v2" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1224,6 +1226,127 @@
 
 
 
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/exploratory-biology/">
+    Project
+  </a>
+  
+
+  
+    
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/evodiff/" >Protein generation with evolutionary diffusion: sequence is all you need</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Discrete diffusion models on protein sequences can generate novel proteins.
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span>Sarah Alamdari</span>, <span>Nitya Thakkar</span>, <span>Rianne van den Berg</span>, <span>Neil Tenenholtz</span>, <span>Bob Strome</span>, <span>Alan Moses</span>, <span>Alex X. Lu</span>, <span>Nicolo Fusi</span>, <span>Ava P. Amini</span>, <span>Kevin Yang</span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2023.09.11.556673v2" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+    
+  
+
+  
+    
+  
 
 
 
@@ -1485,117 +1608,6 @@
 
       
     
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/yeastspotter/" >YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells</a>
-    </h3>
-
-    
-    <div class="article-style">
-      We introduce YeastSpotter, a web application for the segmentation of yeast microscopy images into single cells.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span>Alex X Lu</span>, <span>Taraneh Zarin</span>, <span>Ian S Hsu</span>, <span>Alan M Moses</span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://academic.oup.com/bioinformatics/article/35/21/4525/5490207" target="_blank" rel="noopener">
-  PDF
-</a>
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/alexxijielu/yeast_segmentation" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="http://yeastspotter.csb.utoronto.ca/" target="_blank" rel="noopener">
-  Project
-</a>
-
-
-
-
-
-
-
-
-
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
 
   </div>
 </div>
@@ -1718,7 +1730,7 @@
 
 
   
-  <span>Kevin K Yang</span>, <span>Alex X Lu</span>, <span>Nicolo K Fusi</span>
+  <span>Kevin Yang</span>, <span>Nicolo Fusi</span>, <span>Alex X Lu</span>
 
   </div>
   
@@ -1740,7 +1752,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.biorxiv.org/content/10.1101/2022.05.19.492714v2.abstract" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.cell.com/cell-systems/abstract/S2405-4712%2824%2900029-2" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1755,9 +1767,11 @@
   
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/exploratory-biology/">
-    Project
-  </a>
+    
+  
+
+  
+    
   
 
 
@@ -1795,7 +1809,7 @@
 
 <div class="view-list-item">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
-  <a href="/publication/conditional_flow/" >Improved Conditional Flow Models for Molecule to Image Synthesis</a>
+  <a href="/publication/cytoimagenet/" >CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</a>
 
   
 
@@ -1806,7 +1820,7 @@
 
 
   
-  <span>Karren Yang</span>, <span>Samuel Goldman</span>, <span>Wengong Jin</span>, <span>Alex X Lu</span>, <span>Regina Barzilay</span>, <span>Tommi Jaakkola</span>, <span>Caroline Uhler</span>
+  <span>Stanley Bryan Z Hua</span>, <span>Alex X Lu</span>, <span>Alan M Moses</span>
 
   </div>
   
@@ -1828,7 +1842,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2006.08532" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/2111.11646" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -1837,6 +1851,18 @@
 
 
 
+
+  
+    
+  
+
+  
+    
+  
+
+  
+    
+  
 
 
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdullah Maqsood | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/abdullah-maqsood/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/abdullah-maqsood/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abdullah Maqsood</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Abdullah Maqsood</title>
+      <link>http://www.alexluresearch.com/authors/abdullah-maqsood/</link>
+    </image>
+    
+    <item>
+      <title>A functional map of the human intrinsically disordered proteome</title>
+      <link>http://www.alexluresearch.com/publication/human_idr_proteome/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/human_idr_proteome/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/publication/</link>
       <atom:link href="http://www.alexluresearch.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 18 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,26 +13,74 @@
     </image>
     
     <item>
-      <title>Incorporating knowledge of plates in batch normalization improves generalization of deep learning for microscopy images</title>
-      <link>http://www.alexluresearch.com/publication/ben/</link>
-      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/ben/</guid>
+      <title>Convolutions are competitive with transformers for protein sequence pretraining</title>
+      <link>http://www.alexluresearch.com/publication/carp/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/carp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
+      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protein structure generation via folding diffusion</title>
-      <link>http://www.alexluresearch.com/publication/protfolddiff/</link>
-      <pubDate>Fri, 30 Sep 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/protfolddiff/</guid>
+      <link>http://www.alexluresearch.com/publication/foldingdiff/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/foldingdiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature reuse and scaling: Understanding transfer learning with protein language models</title>
+      <link>http://www.alexluresearch.com/publication/feature_reuse_proteins/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/feature_reuse_proteins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutions are competitive with transformers for protein sequence pretraining</title>
-      <link>http://www.alexluresearch.com/publication/carp/</link>
-      <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/carp/</guid>
+      <link>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</link>
+      <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing the limits of zero-shot foundation models in single-cell biology</title>
+      <link>http://www.alexluresearch.com/publication/sc_foundation_zero_shot/</link>
+      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/sc_foundation_zero_shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>http://www.alexluresearch.com/publication/evodiff/</link>
+      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/evodiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A functional map of the human intrinsically disordered proteome</title>
+      <link>http://www.alexluresearch.com/publication/human_idr_proteome/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/human_idr_proteome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporating knowledge of plates in batch normalization improves generalization of deep learning for microscopy images</title>
+      <link>http://www.alexluresearch.com/publication/ben/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/ben/</guid>
       <description></description>
     </item>
     
@@ -145,6 +193,30 @@
       <link>http://www.alexluresearch.com/publication/mast_cells/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/mast_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
+      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles</title>
+      <link>http://www.alexluresearch.com/publication/asl_stem_wiki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_stem_wiki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systemic Biases in Sign Language AI Research: A Deaf-Led Call to Reevaluate Research Agendas</title>
+      <link>http://www.alexluresearch.com/publication/asl_systematic_biases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_systematic_biases/</guid>
       <description></description>
     </item>
     
