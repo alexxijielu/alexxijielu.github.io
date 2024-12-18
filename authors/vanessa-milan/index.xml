@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/vanessa-milan/</link>
       <atom:link href="http://www.alexluresearch.com/authors/vanessa-milan/index.xml" rel="self" type="application/rss+xml" />
     <description>Vanessa Milan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Vanessa Milan</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
-      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
+      <title>ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles</title>
+      <link>http://www.alexluresearch.com/publication/asl_stem_wiki/</link>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_stem_wiki/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles</title>
-      <link>http://www.alexluresearch.com/publication/asl_stem_wiki/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_stem_wiki/</guid>
+      <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
+      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
       <description></description>
     </item>
     
