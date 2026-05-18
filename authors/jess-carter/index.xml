@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jess Carter | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/jess-carter/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/jess-carter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jess Carter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jess Carter</title>
+      <link>http://www.alexluresearch.com/authors/jess-carter/</link>
+    </image>
+    
+    <item>
+      <title>Phonological Perception of Sign Language Models</title>
+      <link>http://www.alexluresearch.com/publication/2026_05_phonorep/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_05_phonorep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jules Gagnon-Marchand | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/jules-gagnon-marchand/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/jules-gagnon-marchand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jules Gagnon-Marchand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jules Gagnon-Marchand</title>
+      <link>http://www.alexluresearch.com/authors/jules-gagnon-marchand/</link>
+    </image>
+    
+    <item>
+      <title>scGeneScope: A Treatment-Matched Single Cell Imaging and Transcriptomics Dataset and Benchmark for Treatment Response Modeling</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_scgenescope/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_scgenescope/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
