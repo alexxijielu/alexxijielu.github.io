@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/aashaka-desai/</link>
       <atom:link href="http://www.alexluresearch.com/authors/aashaka-desai/index.xml" rel="self" type="application/rss+xml" />
     <description>Aashaka Desai</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Aashaka Desai</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
+      <title>Exploring Reduced Feature Sets for American Sign Language Dictionaries</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_reduced_feature_sets/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_reduced_feature_sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Dictionary Expansion for Video-based Sign Language Dictionaries</title>
+      <link>http://www.alexluresearch.com/publication/2025_11_dictionary_expansion/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_11_dictionary_expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Systemic Biases in Sign Language AI Research: A Deaf-Led Call to Reevaluate Research Agendas</title>
-      <link>http://www.alexluresearch.com/publication/asl_systematic_biases/</link>
+      <link>http://www.alexluresearch.com/publication/2024_05_asl_systematic_biases/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_systematic_biases/</guid>
+      <guid>http://www.alexluresearch.com/publication/2024_05_asl_systematic_biases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
-      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
+      <link>http://www.alexluresearch.com/publication/2023_12_asl_citizen/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
+      <guid>http://www.alexluresearch.com/publication/2023_12_asl_citizen/</guid>
       <description></description>
     </item>
     

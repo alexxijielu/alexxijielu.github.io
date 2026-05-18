@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/ava-p-amini/</link>
       <atom:link href="http://www.alexluresearch.com/authors/ava-p-amini/index.xml" rel="self" type="application/rss+xml" />
     <description>Ava P Amini</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ava P Amini</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
-      <title>Protein structure generation via folding diffusion</title>
-      <link>http://www.alexluresearch.com/publication/foldingdiff/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/foldingdiff/</guid>
+      <title>scGeneScope: A Treatment-Matched Single Cell Imaging and Transcriptomics Dataset and Benchmark for Treatment Response Modeling</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_scgenescope/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_scgenescope/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Assessing the limits of zero-shot foundation models in single-cell biology</title>
-      <link>http://www.alexluresearch.com/publication/sc_foundation_zero_shot/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/sc_foundation_zero_shot/</guid>
+      <title>Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology</title>
+      <link>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-shot evaluation reveals limitations of single-cell foundation models</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_sc_foundation_zero_shot/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_sc_foundation_zero_shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_micon/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_micon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein structure generation via folding diffusion</title>
+      <link>http://www.alexluresearch.com/publication/2024_02_foldingdiff/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2024_02_foldingdiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature reuse and scaling: Understanding transfer learning with protein language models</title>
+      <link>http://www.alexluresearch.com/publication/2024_07_feature_reuse_proteins/</link>
+      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2024_07_feature_reuse_proteins/</guid>
       <description></description>
     </item>
     

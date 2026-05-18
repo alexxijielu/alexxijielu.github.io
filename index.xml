@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/</link>
       <atom:link href="http://www.alexluresearch.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Lu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alex Lu</title>
@@ -13,90 +13,194 @@
     </image>
     
     <item>
+      <title>A functional map of the human intrinsically disordered proteome</title>
+      <link>http://www.alexluresearch.com/publication/2026_05_human_idr_proteome/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_05_human_idr_proteome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MorphoHELM: A Comprehensive Benchmark for Evaluating Representations for Microscopy-Based Morphology Assays</title>
+      <link>http://www.alexluresearch.com/publication/2026_05_morphohelm/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_05_morphohelm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Phonological Perception of Sign Language Models</title>
+      <link>http://www.alexluresearch.com/publication/2026_05_phonorep/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_05_phonorep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vermeer: Autoregressive generative modeling of microscopy predicts protein localization</title>
+      <link>http://www.alexluresearch.com/publication/2026_05_vermeer/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_05_vermeer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Underrepresentation of children in public medical imaging datasets</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_pediatric_ai_underrepresentation/</link>
+      <pubDate>Fri, 24 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_pediatric_ai_underrepresentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scGeneScope: A Treatment-Matched Single Cell Imaging and Transcriptomics Dataset and Benchmark for Treatment Response Modeling</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_scgenescope/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_scgenescope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_prob_subseasonal/</link>
+      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_prob_subseasonal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary conditioning enables guided generation of functionally diverse enhancers</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_enhancar/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_enhancar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology</title>
+      <link>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</link>
+      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Reduced Feature Sets for American Sign Language Dictionaries</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_reduced_feature_sets/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_reduced_feature_sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Dictionary Expansion for Video-based Sign Language Dictionaries</title>
+      <link>http://www.alexluresearch.com/publication/2025_11_dictionary_expansion/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_11_dictionary_expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Collaboration to Center the Deaf Community in Sign Language AI</title>
+      <link>http://www.alexluresearch.com/publication/2025_10_center_deaf_community/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_10_center_deaf_community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells</title>
+      <link>http://www.alexluresearch.com/publication/2025_06_background_cells/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_06_background_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zero-shot evaluation reveals limitations of single-cell foundation models</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_sc_foundation_zero_shot/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_sc_foundation_zero_shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_micon/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_micon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles</title>
-      <link>http://www.alexluresearch.com/publication/asl_stem_wiki/</link>
+      <link>http://www.alexluresearch.com/publication/2024_11_asl_stem_wiki/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_stem_wiki/</guid>
+      <guid>http://www.alexluresearch.com/publication/2024_11_asl_stem_wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systemic Biases in Sign Language AI Research: A Deaf-Led Call to Reevaluate Research Agendas</title>
-      <link>http://www.alexluresearch.com/publication/asl_systematic_biases/</link>
+      <link>http://www.alexluresearch.com/publication/2024_05_asl_systematic_biases/</link>
       <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_systematic_biases/</guid>
+      <guid>http://www.alexluresearch.com/publication/2024_05_asl_systematic_biases/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Convolutions are competitive with transformers for protein sequence pretraining</title>
-      <link>http://www.alexluresearch.com/publication/carp/</link>
+      <link>http://www.alexluresearch.com/publication/2024_02_carp/</link>
       <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/carp/</guid>
+      <guid>http://www.alexluresearch.com/publication/2024_02_carp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protein structure generation via folding diffusion</title>
-      <link>http://www.alexluresearch.com/publication/foldingdiff/</link>
+      <link>http://www.alexluresearch.com/publication/2024_02_foldingdiff/</link>
       <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/foldingdiff/</guid>
+      <guid>http://www.alexluresearch.com/publication/2024_02_foldingdiff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature reuse and scaling: Understanding transfer learning with protein language models</title>
-      <link>http://www.alexluresearch.com/publication/feature_reuse_proteins/</link>
+      <link>http://www.alexluresearch.com/publication/2024_07_feature_reuse_proteins/</link>
       <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/feature_reuse_proteins/</guid>
+      <guid>http://www.alexluresearch.com/publication/2024_07_feature_reuse_proteins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Domain adaptation using optimal transport for invariant learning using histopathology datasets</title>
-      <link>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</link>
+      <link>http://www.alexluresearch.com/publication/2023_07_domain_adaptation_histopathology_ot/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Assessing the limits of zero-shot foundation models in single-cell biology</title>
-      <link>http://www.alexluresearch.com/publication/sc_foundation_zero_shot/</link>
-      <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/sc_foundation_zero_shot/</guid>
+      <guid>http://www.alexluresearch.com/publication/2023_07_domain_adaptation_histopathology_ot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
-      <link>http://www.alexluresearch.com/publication/evodiff/</link>
+      <link>http://www.alexluresearch.com/publication/2023_11_evodiff/</link>
       <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/evodiff/</guid>
+      <guid>http://www.alexluresearch.com/publication/2023_11_evodiff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
-      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
+      <link>http://www.alexluresearch.com/publication/2023_12_asl_citizen/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A functional map of the human intrinsically disordered proteome</title>
-      <link>http://www.alexluresearch.com/publication/human_idr_proteome/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/human_idr_proteome/</guid>
+      <guid>http://www.alexluresearch.com/publication/2023_12_asl_citizen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Incorporating knowledge of plates in batch normalization improves generalization of deep learning for microscopy images</title>
-      <link>http://www.alexluresearch.com/publication/ben/</link>
+      <link>http://www.alexluresearch.com/publication/2022_12_ben/</link>
       <pubDate>Tue, 18 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/ben/</guid>
+      <guid>http://www.alexluresearch.com/publication/2022_12_ben/</guid>
       <description></description>
     </item>
     
@@ -127,33 +231,33 @@
     
     <item>
       <title>Discovering molecular features of intrinsically disordered regions by using evolution for contrastive learning</title>
-      <link>http://www.alexluresearch.com/publication/reverse-homology/</link>
+      <link>http://www.alexluresearch.com/publication/2022_06_reverse-homology/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/reverse-homology/</guid>
+      <guid>http://www.alexluresearch.com/publication/2022_06_reverse-homology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
-      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
+      <link>http://www.alexluresearch.com/publication/2021_12_cytoimagenet/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
+      <guid>http://www.alexluresearch.com/publication/2021_12_cytoimagenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Improved Conditional Flow Models for Molecule to Image Synthesis</title>
-      <link>http://www.alexluresearch.com/publication/conditional_flow/</link>
+      <link>http://www.alexluresearch.com/publication/2021_12_conditional_flow/</link>
       <pubDate>Sat, 19 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/conditional_flow/</guid>
+      <guid>http://www.alexluresearch.com/publication/2021_12_conditional_flow/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution Is All You Need: Phylogenetic Augmentation for Contrastive Learning</title>
-      <link>http://www.alexluresearch.com/publication/evolution_is_all_you_need/</link>
+      <link>http://www.alexluresearch.com/publication/2020_12_evolution_is_all_you_need/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/evolution_is_all_you_need/</guid>
+      <guid>http://www.alexluresearch.com/publication/2020_12_evolution_is_all_you_need/</guid>
       <description></description>
     </item>
     
@@ -173,89 +277,89 @@
     
     <item>
       <title>The Cells Out of Sample (COOS) dataset and benchmarks for measuring out-of-sample generalization of image classifiers</title>
-      <link>http://www.alexluresearch.com/publication/coos/</link>
+      <link>http://www.alexluresearch.com/publication/2019_12_coos/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/coos/</guid>
+      <guid>http://www.alexluresearch.com/publication/2019_12_coos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells</title>
-      <link>http://www.alexluresearch.com/publication/yeastspotter/</link>
+      <link>http://www.alexluresearch.com/publication/2019_05_yeastspotter/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/yeastspotter/</guid>
+      <guid>http://www.alexluresearch.com/publication/2019_05_yeastspotter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning unsupervised feature representations for single cell microscopy images with paired cell inpainting</title>
-      <link>http://www.alexluresearch.com/publication/paired-cell-inpainting/</link>
+      <link>http://www.alexluresearch.com/publication/2019_11_paired-cell-inpainting/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/paired-cell-inpainting/</guid>
+      <guid>http://www.alexluresearch.com/publication/2019_11_paired-cell-inpainting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating images from multiple microscopy screens reveals diverse patterns of change in the subcellular localization of proteins</title>
-      <link>http://www.alexluresearch.com/publication/integrating-yeast-images/</link>
+      <link>http://www.alexluresearch.com/publication/2018_05_integrating-yeast-images/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/integrating-yeast-images/</guid>
+      <guid>http://www.alexluresearch.com/publication/2018_05_integrating-yeast-images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Influence of repetitive mechanical loading on MMP2 activity in tendon fibroblasts</title>
-      <link>http://www.alexluresearch.com/publication/mmp2/</link>
+      <link>http://www.alexluresearch.com/publication/2016_11_mmp2/</link>
       <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/mmp2/</guid>
+      <guid>http://www.alexluresearch.com/publication/2016_11_mmp2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Unsupervised kNN Method to Systematically Detect Changes in Protein Localization in High-Throughput Microscopy Images</title>
-      <link>http://www.alexluresearch.com/publication/knn/</link>
+      <link>http://www.alexluresearch.com/publication/2016_07_knn/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/knn/</guid>
+      <guid>http://www.alexluresearch.com/publication/2016_07_knn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Angiopoietin‐like 4 promotes angiogenesis in the tendon and is increased in cyclically loaded tendon fibroblasts</title>
-      <link>http://www.alexluresearch.com/publication/angiopoietin/</link>
+      <link>http://www.alexluresearch.com/publication/2016_06_angiopoietin/</link>
       <pubDate>Wed, 16 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/angiopoietin/</guid>
+      <guid>http://www.alexluresearch.com/publication/2016_06_angiopoietin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accumulation of oxidized LDL in the tendon tissues of C57BL/6 or apolipoprotein E knock-out mice that consume a high fat diet: potential impact on tendon health</title>
-      <link>http://www.alexluresearch.com/publication/oxidized-ldl/</link>
+      <link>http://www.alexluresearch.com/publication/2014_12_oxidized-ldl/</link>
       <pubDate>Fri, 12 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/oxidized-ldl/</guid>
+      <guid>http://www.alexluresearch.com/publication/2014_12_oxidized-ldl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhanced collagen type I synthesis by human tenocytes subjected to periodic in vitro mechanical stimulation</title>
-      <link>http://www.alexluresearch.com/publication/enhanced_collagen/</link>
+      <link>http://www.alexluresearch.com/publication/2014_12_enhanced_collagen/</link>
       <pubDate>Mon, 01 Dec 2014 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/enhanced_collagen/</guid>
+      <guid>http://www.alexluresearch.com/publication/2014_12_enhanced_collagen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podocalyxin Regulates Murine Lung Vascular Permeability by Altering Endothelial Cell Adhesion</title>
-      <link>http://www.alexluresearch.com/publication/podocalyxin/</link>
+      <link>http://www.alexluresearch.com/publication/2014_10_podocalyxin/</link>
       <pubDate>Fri, 10 Oct 2014 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/podocalyxin/</guid>
+      <guid>http://www.alexluresearch.com/publication/2014_10_podocalyxin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mast cells exert pro-inflammatory effects of relevance to the pathophyisology of tendinopathy</title>
-      <link>http://www.alexluresearch.com/publication/mast_cells/</link>
+      <link>http://www.alexluresearch.com/publication/2013_12_mast_cells/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/mast_cells/</guid>
+      <guid>http://www.alexluresearch.com/publication/2013_12_mast_cells/</guid>
       <description></description>
     </item>
     

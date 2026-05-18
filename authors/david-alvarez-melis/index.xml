@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/david-alvarez-melis/</link>
       <atom:link href="http://www.alexluresearch.com/authors/david-alvarez-melis/index.xml" rel="self" type="application/rss+xml" />
     <description>David Alvarez-Melis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 23 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>David Alvarez-Melis</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>scGeneScope: A Treatment-Matched Single Cell Imaging and Transcriptomics Dataset and Benchmark for Treatment Response Modeling</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_scgenescope/</link>
+      <pubDate>Thu, 23 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_scgenescope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_micon/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_micon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Domain adaptation using optimal transport for invariant learning using histopathology datasets</title>
-      <link>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</link>
+      <link>http://www.alexluresearch.com/publication/2023_07_domain_adaptation_histopathology_ot/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/domain_adaptation_histopathology_ot/</guid>
+      <guid>http://www.alexluresearch.com/publication/2023_07_domain_adaptation_histopathology_ot/</guid>
       <description></description>
     </item>
     

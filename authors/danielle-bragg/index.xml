@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/danielle-bragg/</link>
       <atom:link href="http://www.alexluresearch.com/authors/danielle-bragg/index.xml" rel="self" type="application/rss+xml" />
     <description>Danielle Bragg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 09 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Danielle Bragg</title>
@@ -13,18 +13,42 @@
     </image>
     
     <item>
+      <title>Exploring Reduced Feature Sets for American Sign Language Dictionaries</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_reduced_feature_sets/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_reduced_feature_sets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Dictionary Expansion for Video-based Sign Language Dictionaries</title>
+      <link>http://www.alexluresearch.com/publication/2025_11_dictionary_expansion/</link>
+      <pubDate>Sun, 09 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_11_dictionary_expansion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Collaboration to Center the Deaf Community in Sign Language AI</title>
+      <link>http://www.alexluresearch.com/publication/2025_10_center_deaf_community/</link>
+      <pubDate>Wed, 22 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_10_center_deaf_community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ASL STEM Wiki: Dataset and Benchmark for Interpreting STEM Articles</title>
-      <link>http://www.alexluresearch.com/publication/asl_stem_wiki/</link>
+      <link>http://www.alexluresearch.com/publication/2024_11_asl_stem_wiki/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_stem_wiki/</guid>
+      <guid>http://www.alexluresearch.com/publication/2024_11_asl_stem_wiki/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ASL citizen: a community-sourced dataset for advancing isolated sign language recognition</title>
-      <link>http://www.alexluresearch.com/publication/asl_citizen/</link>
+      <link>http://www.alexluresearch.com/publication/2023_12_asl_citizen/</link>
       <pubDate>Tue, 20 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/asl_citizen/</guid>
+      <guid>http://www.alexluresearch.com/publication/2023_12_asl_citizen/</guid>
       <description></description>
     </item>
     

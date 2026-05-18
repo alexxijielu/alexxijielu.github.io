@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/alan-m-moses/</link>
       <atom:link href="http://www.alexluresearch.com/authors/alan-m-moses/index.xml" rel="self" type="application/rss+xml" />
     <description>Alan M Moses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alan M Moses</title>
@@ -14,73 +14,89 @@
     
     <item>
       <title>A functional map of the human intrinsically disordered proteome</title>
-      <link>http://www.alexluresearch.com/publication/human_idr_proteome/</link>
-      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/human_idr_proteome/</guid>
+      <link>http://www.alexluresearch.com/publication/2026_05_human_idr_proteome/</link>
+      <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_05_human_idr_proteome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary conditioning enables guided generation of functionally diverse enhancers</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_enhancar/</link>
+      <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_enhancar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells</title>
+      <link>http://www.alexluresearch.com/publication/2025_06_background_cells/</link>
+      <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_06_background_cells/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discovering molecular features of intrinsically disordered regions by using evolution for contrastive learning</title>
-      <link>http://www.alexluresearch.com/publication/reverse-homology/</link>
+      <link>http://www.alexluresearch.com/publication/2022_06_reverse-homology/</link>
       <pubDate>Wed, 29 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/reverse-homology/</guid>
+      <guid>http://www.alexluresearch.com/publication/2022_06_reverse-homology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CytoImageNet: A large-scale pretraining dataset for bioimage transfer learning</title>
-      <link>http://www.alexluresearch.com/publication/cytoimagenet/</link>
+      <link>http://www.alexluresearch.com/publication/2021_12_cytoimagenet/</link>
       <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/cytoimagenet/</guid>
+      <guid>http://www.alexluresearch.com/publication/2021_12_cytoimagenet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evolution Is All You Need: Phylogenetic Augmentation for Contrastive Learning</title>
-      <link>http://www.alexluresearch.com/publication/evolution_is_all_you_need/</link>
+      <link>http://www.alexluresearch.com/publication/2020_12_evolution_is_all_you_need/</link>
       <pubDate>Fri, 25 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/evolution_is_all_you_need/</guid>
+      <guid>http://www.alexluresearch.com/publication/2020_12_evolution_is_all_you_need/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Cells Out of Sample (COOS) dataset and benchmarks for measuring out-of-sample generalization of image classifiers</title>
-      <link>http://www.alexluresearch.com/publication/coos/</link>
+      <link>http://www.alexluresearch.com/publication/2019_12_coos/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/coos/</guid>
+      <guid>http://www.alexluresearch.com/publication/2019_12_coos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>YeastSpotter: accurate and parameter-free web segmentation for microscopy images of yeast cells</title>
-      <link>http://www.alexluresearch.com/publication/yeastspotter/</link>
+      <link>http://www.alexluresearch.com/publication/2019_05_yeastspotter/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/yeastspotter/</guid>
+      <guid>http://www.alexluresearch.com/publication/2019_05_yeastspotter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning unsupervised feature representations for single cell microscopy images with paired cell inpainting</title>
-      <link>http://www.alexluresearch.com/publication/paired-cell-inpainting/</link>
+      <link>http://www.alexluresearch.com/publication/2019_11_paired-cell-inpainting/</link>
       <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/paired-cell-inpainting/</guid>
+      <guid>http://www.alexluresearch.com/publication/2019_11_paired-cell-inpainting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating images from multiple microscopy screens reveals diverse patterns of change in the subcellular localization of proteins</title>
-      <link>http://www.alexluresearch.com/publication/integrating-yeast-images/</link>
+      <link>http://www.alexluresearch.com/publication/2018_05_integrating-yeast-images/</link>
       <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/integrating-yeast-images/</guid>
+      <guid>http://www.alexluresearch.com/publication/2018_05_integrating-yeast-images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An Unsupervised kNN Method to Systematically Detect Changes in Protein Localization in High-Throughput Microscopy Images</title>
-      <link>http://www.alexluresearch.com/publication/knn/</link>
+      <link>http://www.alexluresearch.com/publication/2016_07_knn/</link>
       <pubDate>Thu, 21 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/knn/</guid>
+      <guid>http://www.alexluresearch.com/publication/2016_07_knn/</guid>
       <description></description>
     </item>
     
