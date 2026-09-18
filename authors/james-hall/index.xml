@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Hall | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/james-hall/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/james-hall/index.xml" rel="self" type="application/rss+xml" />
+    <description>James Hall</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>James Hall</title>
+      <link>http://www.alexluresearch.com/authors/james-hall/</link>
+    </image>
+    
+    <item>
+      <title>Predicting evolutionary rate as a pretraining task improves genome language model representations</title>
+      <link>http://www.alexluresearch.com/publication/2026_07_gamba/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_07_gamba/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

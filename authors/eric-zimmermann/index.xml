@@ -5,7 +5,7 @@
     <link>http://www.alexluresearch.com/authors/eric-zimmermann/</link>
       <atom:link href="http://www.alexluresearch.com/authors/eric-zimmermann/index.xml" rel="self" type="application/rss+xml" />
     <description>Eric Zimmermann</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 05 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Eric Zimmermann</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Vermeer: Autoregressive generative modeling of microscopy predicts protein localization</title>
-      <link>http://www.alexluresearch.com/publication/2026_05_vermeer/</link>
-      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/2026_05_vermeer/</guid>
+      <title>Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology</title>
+      <link>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology</title>
-      <link>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</link>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</guid>
+      <title>Vermeer: Autoregressive generative modeling of microscopy predicts protein localization</title>
+      <link>http://www.alexluresearch.com/publication/2026_05_vermeer/</link>
+      <pubDate>Tue, 05 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_05_vermeer/</guid>
       <description></description>
     </item>
     

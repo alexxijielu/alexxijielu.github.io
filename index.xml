@@ -5,12 +5,44 @@
     <link>http://www.alexluresearch.com/</link>
       <atom:link href="http://www.alexluresearch.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Lu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Alex Lu</title>
       <link>http://www.alexluresearch.com/</link>
     </image>
+    
+    <item>
+      <title>Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology</title>
+      <link>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
+      <link>http://www.alexluresearch.com/publication/2023_11_evodiff/</link>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2023_11_evodiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications</title>
+      <link>http://www.alexluresearch.com/publication/2026_07_flip2/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_07_flip2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting evolutionary rate as a pretraining task improves genome language model representations</title>
+      <link>http://www.alexluresearch.com/publication/2026_07_gamba/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_07_gamba/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A functional map of the human intrinsically disordered proteome</title>
@@ -61,26 +93,10 @@
     </item>
     
     <item>
-      <title>Enhancing AI and Dynamical Subseasonal Forecasts with Probabilistic Bias Correction</title>
-      <link>http://www.alexluresearch.com/publication/2026_04_prob_subseasonal/</link>
-      <pubDate>Fri, 17 Apr 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/2026_04_prob_subseasonal/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Evolutionary conditioning enables guided generation of functionally diverse enhancers</title>
       <link>http://www.alexluresearch.com/publication/2026_04_enhancar/</link>
       <pubDate>Wed, 15 Apr 2026 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/2026_04_enhancar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Multimodal Alignment Improves Generalizability of Genomic Biomarker Prediction in Computational Pathology</title>
-      <link>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</link>
-      <pubDate>Fri, 27 Feb 2026 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/2026_02_multimodal_path_alignment/</guid>
       <description></description>
     </item>
     
@@ -109,6 +125,14 @@
     </item>
     
     <item>
+      <title>Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling</title>
+      <link>http://www.alexluresearch.com/publication/2025_04_micon/</link>
+      <pubDate>Tue, 29 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2025_04_micon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Representation Learning Methods for Single-Cell Microscopy are Confounded by Background Cells</title>
       <link>http://www.alexluresearch.com/publication/2025_06_background_cells/</link>
       <pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
@@ -121,14 +145,6 @@
       <link>http://www.alexluresearch.com/publication/2025_04_sc_foundation_zero_shot/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/2025_04_sc_foundation_zero_shot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Integrating chemical structures as treatments improves representations of microscopy images for morphological profiling</title>
-      <link>http://www.alexluresearch.com/publication/2025_04_micon/</link>
-      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/2025_04_micon/</guid>
       <description></description>
     </item>
     
@@ -177,14 +193,6 @@
       <link>http://www.alexluresearch.com/publication/2023_07_domain_adaptation_histopathology_ot/</link>
       <pubDate>Tue, 23 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/2023_07_domain_adaptation_histopathology_ot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Protein generation with evolutionary diffusion: sequence is all you need</title>
-      <link>http://www.alexluresearch.com/publication/2023_11_evodiff/</link>
-      <pubDate>Tue, 12 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>http://www.alexluresearch.com/publication/2023_11_evodiff/</guid>
       <description></description>
     </item>
     
@@ -360,6 +368,14 @@
       <link>http://www.alexluresearch.com/publication/2013_12_mast_cells/</link>
       <pubDate>Sun, 01 Dec 2013 00:00:00 +0000</pubDate>
       <guid>http://www.alexluresearch.com/publication/2013_12_mast_cells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advancing Subseasonal Forecasting with Machine Learning</title>
+      <link>http://www.alexluresearch.com/publication/2026_04_prob_subseasonal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_04_prob_subseasonal/</guid>
       <description></description>
     </item>
     

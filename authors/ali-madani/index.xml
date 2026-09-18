@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Madani | Alex Lu</title>
+    <link>http://www.alexluresearch.com/authors/ali-madani/</link>
+      <atom:link href="http://www.alexluresearch.com/authors/ali-madani/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali Madani</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ali Madani</title>
+      <link>http://www.alexluresearch.com/authors/ali-madani/</link>
+    </image>
+    
+    <item>
+      <title>FLIP2: Expanding Protein Fitness Landscape Benchmarks for Real-World Machine Learning Applications</title>
+      <link>http://www.alexluresearch.com/publication/2026_07_flip2/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_07_flip2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

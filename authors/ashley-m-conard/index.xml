@@ -5,12 +5,20 @@
     <link>http://www.alexluresearch.com/authors/ashley-m-conard/</link>
       <atom:link href="http://www.alexluresearch.com/authors/ashley-m-conard/index.xml" rel="self" type="application/rss+xml" />
     <description>Ashley M Conard</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 06 Jul 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Ashley M Conard</title>
       <link>http://www.alexluresearch.com/authors/ashley-m-conard/</link>
     </image>
+    
+    <item>
+      <title>Predicting evolutionary rate as a pretraining task improves genome language model representations</title>
+      <link>http://www.alexluresearch.com/publication/2026_07_gamba/</link>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.alexluresearch.com/publication/2026_07_gamba/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>scGeneScope: A Treatment-Matched Single Cell Imaging and Transcriptomics Dataset and Benchmark for Treatment Response Modeling</title>
